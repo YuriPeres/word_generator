@@ -218,6 +218,11 @@ footer p {
   color: var(--color-text-light);
 }
 
+footer p a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
 #contato * {
   font-size: larger !important;
   color: var(--color-accent) !important;
