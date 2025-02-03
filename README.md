@@ -1,7 +1,7 @@
 # Gerador de Palavras e Anagramas
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/meu-site?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/meu-site)
+![GitHub](https://img.shields.io/github/license/YuriPeres/word_generator?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/YuriPeres/word_generator)
 
 O **Gerador de Palavras e Anagramas** é uma ferramenta online prática e intuitiva para criar palavras aleatórias, anagramas personalizados e combinações únicas. Com uma interface amigável e responsiva, o site permite que você defina critérios como número de caracteres, vogais, consoantes, números e símbolos especiais, ideal para criar nomes, senhas seguras ou desbloquear a criatividade.
 
@@ -27,4 +27,4 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/meu-site.git
+   git clone https://github.com/YuriPeres/word_generator.git
