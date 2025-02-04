@@ -3,6 +3,10 @@
 ![GitHub](https://img.shields.io/github/license/YuriPeres/word_generator?color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/YuriPeres/word_generator)
 
+## Visit:
+**Visite o site em produção / Check out the site in production: [Word Generator](https://word-generator-yp.netlify.app/)**
+
+
 #### Português
 O **Gerador de Palavras e Anagramas** é uma ferramenta online prática e intuitiva para criar palavras aleatórias, anagramas personalizados e combinações únicas. Com uma interface amigável e responsiva, o site permite que você defina critérios como número de caracteres, vogais, consoantes, números e símbolos especiais, ideal para criar nomes, senhas seguras ou desbloquear a criatividade.
 
@@ -41,10 +45,10 @@ The **Word and Anagram Generator** is a practical and intuitive online tool for 
 
 ## Licença / License
 #### Português
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](https://github.com/YuriPeres/word_generator/blob/main/LICENSE) para mais detalhes.
 
 #### English
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/YuriPeres/word_generator/blob/main/LICENSE) file for details.
 
 ## Clone
 
