@@ -338,7 +338,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const currentPage = window.location.pathname.split().pop(); 
 
   const langMap = {
-    "/pt/": "br",
+    "/": "br",
     "/en/": "us",
     "/es/": "es"
   };
