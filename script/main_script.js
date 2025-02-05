@@ -162,6 +162,7 @@ function generateName(event) {
       createParagraph(result);
     });
   }
+  generatedNameElement.scrollIntoView({ behavior: 'smooth' });
 }
 
 
