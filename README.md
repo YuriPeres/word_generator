@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ### Artes e Imagens / Artwork and Images
 #### Português
-As artes, desenhos, ícones e imagens presentes neste projeto **não estão cobertas pela licença MIT** e são de uso exclusivo do autor. Qualquer uso desses materiais sem permissão expressa é proibido. Consulte o arquivo [ART_LICENSE](https://github.com/YuriPeres/word_generator/blob/main/ART_LICENSE) para mais detalhes.
+As artes, desenhos, ícones e imagens presentes neste projeto **não estão cobertas pela licença MIT** e são de uso exclusivo do autor. Qualquer uso desses materiais sem permissão expressa é proibido. Consulte o arquivo [ART_LICENSE](https://github.com/YuriPeres/word_generator/blob/main/ART_LICENSE.md) para mais detalhes.
 
 #### English
-The artwork, drawings, icons, and images in this project **are not covered by the MIT License** and are for exclusive use by the author. Any use of these materials without express permission is prohibited. See the [ART_LICENSE](https://github.com/YuriPeres/word_generator/blob/main/ART_LICENSE) file for details.
+The artwork, drawings, icons, and images in this project **are not covered by the MIT License** and are for exclusive use by the author. Any use of these materials without express permission is prohibited. See the [ART_LICENSE](https://github.com/YuriPeres/word_generator/blob/main/ART_LICENSE.md) file for details.
