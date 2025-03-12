@@ -228,7 +228,7 @@ footer p a {
   color: var(--color-accent) !important;
   display: flex;
   align-items: center;
-  justify-content: space-evenly !important;
+  justify-content: center !important;
   flex-wrap: wrap;
 }
 
