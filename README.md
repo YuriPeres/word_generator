@@ -33,11 +33,9 @@ The **Word and Anagram Generator** is a practical and intuitive online tool for 
 - **CSS**: Estilização e design responsivo.
 - **Bootstrap**: Framework para facilitar o design e a responsividade.
 - **JavaScript**: Lógica para geração de palavras e anagramas.
-- **Google AdSense**: Integração de anúncios para monetização.
 
 #### English
 - **HTML**: Website structure.
 - **CSS**: Styling and responsive design.
 - **Bootstrap**: Framework to facilitate design and responsiveness.
 - **JavaScript**: Logic for word and anagram generation.
-- **Google AdSense**: Ad integration for monetization.
